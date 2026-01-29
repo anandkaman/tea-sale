@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="gold">#D4AF37</color>
+    <color name="gold_dark">#B8941F</color>
+    <color name="gold_light">#E8C547</color>
+    
+    <!-- Tea Green (for backward compatibility with themes) -->
+    <color name="tea_green">#2D5A3D</color>
+    <color name="tea_green_dark">#1A472A</color>
+    <color name="tea_green_light">#4A7C59</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_orange">#FF6F00</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_blue">#2196F3</color>
+    <color name="accent_purple">#9C27B0</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_dark">#212121</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#212121</color>
+    
+    <!-- Status Colors -->
+    <color name="status_paid">#4CAF50</color>
+    <color name="status_pending">#FF9800</color>
+    <color name="status_partial">#2196F3</color>
+    <color name="pending_orange">#FF9800</color>
+    <color name="error">#F44336</color>
+    
+    <!-- Gradient Colors for Dashboard -->
+    <color name="gradient_green_start">#4CAF50</color>
+    <color name="gradient_green_end">#81C784</color>
+    <color name="gradient_blue_start">#2196F3</color>
+    <color name="gradient_blue_end">#64B5F6</color>
+    <color name="gradient_orange_start">#FF9800</color>
+    <color name="gradient_orange_end">#FFB74D</color>
+    <color name="gradient_purple_start">#9C27B0</color>
+    <color name="gradient_purple_end">#BA68C8</color>
+    
+    <!-- Material Design Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

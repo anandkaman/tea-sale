@@ -1,0 +1,10 @@
+# Google Services Configuration 🔐
+
+The real `google-services.json` file has been excluded from this repository for security reasons.
+
+## How to set up:
+1. Go to your [Firebase Console](https://console.firebase.google.com/).
+2. Download your project's `google-services.json`.
+3. Copy it into the `app/` directory of this project.
+
+The app will not build or run without this file as it contains the API keys and identifiers for Firestore and Authentication.

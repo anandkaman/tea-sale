@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Lighter variants for dark mode -->
+    <color name="gold">#E8C547</color>
+    <color name="gold_dark">#D4AF37</color>
+    <color name="gold_light">#F5D76E</color>
+
+    <!-- Tea Green - Lighter variants for dark mode -->
+    <color name="tea_green">#4A7C59</color>
+    <color name="tea_green_dark">#2D5A3D</color>
+    <color name="tea_green_light">#6B9B7A</color>
+
+    <!-- Text Colors - Inverted for dark mode -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#808080</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_dark">#FFFFFF</color>
+
+    <!-- Background Colors - Dark backgrounds -->
+    <color name="background">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="on_surface">#FFFFFF</color>
+
+    <!-- Status Colors - Same, good contrast on dark -->
+    <color name="status_paid">#66BB6A</color>
+    <color name="status_pending">#FFB74D</color>
+    <color name="status_partial">#64B5F6</color>
+    <color name="error">#EF5350</color>
+
+    <!-- Material Design Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
